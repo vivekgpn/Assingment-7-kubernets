@@ -1,1 +1,0 @@
-# Assingment-7-kubernets
